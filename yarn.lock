@@ -1489,10 +1489,10 @@
     semver "^7.3.2"
     tsutils "^3.17.1"
 
-"@valueswap/v2-core@^1.0.2":
-  version "1.0.2"
-  resolved "https://registry.yarnpkg.com/@valueswap/v2-core/-/v2-core-1.0.2.tgz#a8f51a1562ca2cf8e4537b430012333e3de5d423"
-  integrity sha512-WFSBhpSayOmctFQKOe7vBUvbmZrM8xU31Ck38CHElss5MajJgVzezOLIPAdIw97bhUNcOJ3VIs3Xucu+Ss41lw==
+"@valueswap/v2-core@^1.1.0":
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/@valueswap/v2-core/-/v2-core-1.1.0.tgz#e98d42d3b601b199f2d0fcca10ac3b91222ef241"
+  integrity sha512-8voMwlwrSUdEloBAtBISgDfNgiOf8zA5SzfNl9+jhWtOruEzuxQz4SvCk1vDRM44PO5ysBXwb/XmHmLaFrnp1g==
 
 abab@^2.0.0:
   version "2.0.5"
