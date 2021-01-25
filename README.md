@@ -2,7 +2,7 @@
 [![npm version](https://img.shields.io/npm/v/@valueswap/sdk/latest.svg)](https://www.npmjs.com/package/@valueswap/sdk/v/latest)
 [![npm bundle size (scoped version)](https://img.shields.io/bundlephobia/minzip/@valueswap/sdk/latest.svg)](https://bundlephobia.com/result?p=@valueswap/sdk@latest)
 
-In-depth documentation on this SDK is available at [valuenetworklive2021.github.io/valueswap-protocol](https://valuenetworklive2021.github.io/valueswap-protocol/docs/v2/SDK/getting-started/).
+In-depth documentation on this SDK is available at [valueswap.valuenetwork.live](https://valueswap.valuenetwork.live/docs/v2/SDK/getting-started/).
 
 
 ## Running tests
