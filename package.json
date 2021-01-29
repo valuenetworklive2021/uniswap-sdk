@@ -2,7 +2,11 @@
   "name": "@valueswap/sdk",
   "version": "1.2.0",
   "description": "🛠 An SDK for building applications on top of Valueswap.",
-  "author": "Value Network",
+  "author": {
+    "name": "Value Network",
+    "email": "support@valuenetwork.live",
+    "url": "https://valuenetwork.live"
+  },
   "license": "MIT",
   "repository": {
     "type": "git",
